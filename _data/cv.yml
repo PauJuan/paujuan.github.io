@@ -8,6 +8,12 @@
     - name: Languages
       value: Catalan, Spanish, English, French, Chinese (basic)
 
+- title: Bio
+  type: map
+  contents:
+    - name:
+      value: Pau is a Doctor in Water Science and Technology and has over 8 years of experience in the water and environment sector. His background is in environmental science with a Masters’ in environmental engineering. He has been in the scientific committee of various international conferences and authored several peer reviewed publications. Currently he is a Senior Consultant in the Strategic Advisory Services (SAS) Research team in the Water Management Consultancy group at Atkins UK. His areas of expertise include water quality and wastewater process modelling, resilience, data analysis, GIS and programming. He is particularly interested in operations research to support decision making in water management. Pau has acted as the Project Information Manager for various projects in Atkins, including CIP3 where he was in charge of data storage, cleaning, processing and analysis.
+
 - title: Education
   type: time_table
   contents:
@@ -28,7 +34,7 @@
         - Description 1.
         - Description 2.
 
-- title: Atkins
+- title: Selected work experience
   type: time_table
   contents:
     - title: Senior Consultant
