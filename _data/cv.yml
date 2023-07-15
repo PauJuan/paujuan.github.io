@@ -14,29 +14,6 @@
     - name:
       value: Pau is a Doctor in Water Science and Technology and has over 8 years of experience in the water and environment sector. His background is in environmental science with a Masters’ in environmental engineering. He has been in the scientific committee of various international conferences and authored several peer reviewed publications. Currently he is a Senior Consultant in the Strategic Advisory Services (SAS) Research team in the Water Management Consultancy group at Atkins UK. His areas of expertise include water quality and wastewater process modelling, resilience, data analysis, GIS and programming. He is particularly interested in operations research to support decision making in water management. Pau has acted as the Project Information Manager for various projects in Atkins, including CIP3 where he was in charge of data storage, cleaning, processing and analysis.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Water Science and Technology
-      institution: University of Girona
-      year: 2019
-      description:
-        - Thesis <a href="https://www.tdx.cat/handle/10803/667738#page=1">Resilience of water resource recovery facilities, a framework for quantitative model-based assessment</a>
-        - Project <a href="https://cordis.europa.eu/project/id/642904">TreatRec</a>, Marie Skłodowska-Curie Actions 
-        - title: Abstract
-          contents:
-            - The water sector faces uncertainty due to climate change and its impact on infrastructure. To handle unpredictable changes, utilities must develop resilience. However, the application of resilience in water management is still in its early stages.
-            - This thesis explored the implementation of resilience in water resource recovery facilities (WRRF) and identified implementation challenges. It also proposed a framework to measure resilience using modeling techniques. The thesis included calibrating and validating a WRRF model at full scale using dynamic aeration modeling. This model was used to test the proposed framework's effectiveness in handling two stressors stormwater and power outage.
-    - title: Masters in Environmental Engineering
-      institution: University of Valencia / Politechnic University of Valencia
-      year: 2014
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: Bachelors degree in Environmental Science
-      institution: University of Valencia 
-      year: 2011
-
 - title: Selected work experience
   type: time_table
   contents:
@@ -62,6 +39,29 @@
       institution: Atkins UK
       year: 2015 - 2019
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Water Science and Technology
+      institution: University of Girona
+      year: 2019
+      description:
+        - Thesis <a href="https://www.tdx.cat/handle/10803/667738#page=1">Resilience of water resource recovery facilities, a framework for quantitative model-based assessment</a>
+        - Project <a href="https://cordis.europa.eu/project/id/642904">TreatRec</a>, Marie Skłodowska-Curie Actions 
+        # - title: Abstract
+        #   contents:
+        #     - The water sector faces uncertainty due to climate change and its impact on infrastructure. To handle unpredictable changes, utilities must develop resilience. However, the application of resilience in water management is still in its early stages.
+        #     - This thesis explored the implementation of resilience in water resource recovery facilities (WRRF) and identified implementation challenges. It also proposed a framework to measure resilience using modeling techniques. The thesis included calibrating and validating a WRRF model at full scale using dynamic aeration modeling. This model was used to test the proposed framework's effectiveness in handling two stressors stormwater and power outage.
+    - title: Masters in Environmental Engineering
+      institution: University of Valencia / Politechnic University of Valencia
+      year: 2014
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: Bachelors degree in Environmental Science
+      institution: University of Valencia 
+      year: 2011
+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -72,6 +72,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - Member of CIWEM (Chartered Institution Of Water And Environmental Management)
     - year: 2019
       items: 
         - PhD Cum Laude
