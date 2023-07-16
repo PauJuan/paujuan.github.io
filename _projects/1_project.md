@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: SAGIS
+description: Source Apportionment GIS. The principle water quality regulatory software in the UK
 img: assets/img/12.jpg
 importance: 1
 category: work
