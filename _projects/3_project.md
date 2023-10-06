@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: DST
+description: The SAGIS Decision Support Tool. A linear program optimisation algorithm that automatically processes SAGIS outputs
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: water quality
 ---
 
 Every project has a beautiful feature showcase page.

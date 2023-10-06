@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A description of selected projects separated by themes
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [water quality, data analysis]
 horizontal: false
 ---
 

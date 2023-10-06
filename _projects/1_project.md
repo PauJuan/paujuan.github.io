@@ -1,10 +1,10 @@
 ---
 layout: page
 title: SAGIS
-description: Source Apportionment GIS. The principle water quality regulatory software in the UK
+description: Source Apportionment GIS (SAGIS). The principle water quality regulatory software in the UK
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: water quality
 ---
 
 Every project has a beautiful feature showcase page.

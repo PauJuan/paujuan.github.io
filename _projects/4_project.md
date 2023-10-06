@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: CIP
+description: The UKWIR Chemicals Investigation Programme (CIP) is the UK water Industry’s response to current and emerging legislation on trace substances in the water environment.
+img: assets/img/4.jpg
 importance: 3
-category: fun
+category: data analysis
 ---
 
 Every project has a beautiful feature showcase page.
