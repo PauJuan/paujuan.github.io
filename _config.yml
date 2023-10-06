@@ -124,7 +124,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Digital Water Chronicles # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A blog that focuses on the intersection of water management and technology. I want to document and explore the digital aspects of water-related topics, such as modeling, programming, and data analysis.
+blog_description: A blog that focuses on the intersection of water management and technology. I want to explore the digital aspects of water-related topics, such as modeling, programming, and data analysis.
 permalink: /blog/:year/:title/
 
 # Pagination
