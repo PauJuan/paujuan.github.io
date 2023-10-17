@@ -27,4 +27,4 @@ Currently I am working in the Strategic Advisory Services (SAS) Research team in
 
 My areas of expertise include water quality and wastewater process modelling, resilience, data analysis, GIS and programming. I am particularly interested in optimisation to support decision making in water management.
 
-I also enjoy developing tools to automate or improve the <a href="https://ukwir.org/sagis">SAGIS-SIMCAT</a> water quality simulation environment from the Environment Agency.
+I also enjoy developing tools to automate or improve the <a href="https://ukwir.org/sagis">SAGIS-SIMCAT</a> water quality simulation environment from the <a href="https://www.gov.uk/government/organisations/environment-agency">Environment Agency</a> and <a href="https://ukwir.org/">UKWIR</a>.
